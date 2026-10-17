@@ -1,0 +1,15 @@
+co\edu\udistrital\builder\view\AbstractViewFactory.class
+co\edu\udistrital\builder\controller\Client.class
+co\edu\udistrital\builder\modelo\ArchiveWriterBuilder.class
+co\edu\udistrital\builder\modelo\MyBufferedWriter.class
+co\edu\udistrital\builder\modelo\DirectorIO.class
+co\edu\udistrital\builder\modelo\WriterBuilder.class
+co\edu\udistrital\builder\modelo\MyBufferedReader.class
+co\edu\udistrital\builder\modelo\ReaderBuilder.class
+co\edu\udistrital\builder\view\ConsoleOut.class
+co\edu\udistrital\builder\modelo\ArchiveReaderBuilder.class
+co\edu\udistrital\builder\view\ConsoleIn.class
+co\edu\udistrital\builder\view\ConsoleViewFactory.class
+co\edu\udistrital\builder\ArchiveBuilderTest.class
+co\edu\udistrital\builder\view\AbstractOut.class
+co\edu\udistrital\builder\view\AbstractIn.class

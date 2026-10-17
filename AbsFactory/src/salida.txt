@@ -1,0 +1,5 @@
+Ingrese numero a: 
+>>6.0
+Ingrese numero b: 
+>>7.0
+El resultado de la operación es: 42.0

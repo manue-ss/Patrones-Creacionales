@@ -1,0 +1,17 @@
+co\edu\udistrital\operaciones\model\Multiplicacion.class
+co\edu\udistrital\operaciones\Main.class
+co\edu\udistrital\operaciones\view\ArchiveIn.class
+co\edu\udistrital\operaciones\view\AbstractIn.class
+co\edu\udistrital\operaciones\model\Suma.class
+co\edu\udistrital\operaciones\view\ArchiveOut.class
+co\edu\udistrital\operaciones\view\PaneIn.class
+co\edu\udistrital\operaciones\view\AbstractViewFactory.class
+co\edu\udistrital\operaciones\view\ConsoleOut.class
+co\edu\udistrital\operaciones\view\ConsoleViewFactory.class
+co\edu\udistrital\operaciones\view\ConsoleIn.class
+co\edu\udistrital\operaciones\view\PaneViewFactory.class
+co\edu\udistrital\operaciones\controller\Cliente.class
+co\edu\udistrital\operaciones\view\AbstractOut.class
+co\edu\udistrital\operaciones\view\ArchiveViewFactory.class
+co\edu\udistrital\operaciones\model\Operacion.class
+co\edu\udistrital\operaciones\view\PaneOut.class
